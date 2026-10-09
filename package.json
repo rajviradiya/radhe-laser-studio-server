@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
+    "build": "echo Serverless API ready",
     "start": "node server.js",
     "node:dev": "node --watch server.js",
     "format": "prettier --write \"**/*.js\"",
