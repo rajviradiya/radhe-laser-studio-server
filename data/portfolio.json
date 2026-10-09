@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "port-1",
+    "title": "Precision Laser Cut Geometric Panels",
+    "category": "Laser Cutting",
+    "material": "3.5mm Cast Acrylic & MDF",
+    "description": "High-tolerance CO₂ laser cut decorative pattern panels for interior architectural application in Ahmedabad.",
+    "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-2",
+    "title": "Corporate Reception 3D Acrylic Logo",
+    "category": "Signage",
+    "material": "Gold Mirror Acrylic on 5mm Matte Black Backing",
+    "description": "Dual-layer precision laser cut corporate reception branding with clean bevel and wall standoff mounts.",
+    "imageUrl": "https://images.unsplash.com/photo-1616401784845-180882ba9ba8?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-3",
+    "title": "Dimensional Solid Acrylic Letters",
+    "category": "Acrylic",
+    "material": "8mm High-Gloss Cast Acrylic",
+    "description": "Crisp laser contoured typography with laser polished edges for showroom entry display.",
+    "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-4",
+    "title": "Laser Carved MDF Jali Décor Screen",
+    "category": "MDF",
+    "material": "12mm High-Density Engineered MDF",
+    "description": "Complex lattice cut pattern without edge burn, calibrated for residential partition installation.",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-5",
+    "title": "Custom Acrylic Villa Name Plate",
+    "category": "Name Plates",
+    "material": "Frosted Acrylic + Rose Gold Mirror Accents",
+    "description": "Customized residential entrance name plate with weatherproof laser engraving and brass hardware.",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-6",
+    "title": "Retail Storefront Backlit Acrylic Sign Board",
+    "category": "Branding",
+    "material": "Translucent White Acrylic + Black Acrylic Borders",
+    "description": "Durable illuminated retail fascia lettering prepared for LED backlighting and weather exposure.",
+    "imageUrl": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-7",
+    "title": "Custom LED Flex Neon Event Sign",
+    "category": "Décor",
+    "material": "Laser Cut Clear Acrylic Backing + Silicone Neon",
+    "description": "Contour-cut transparent acrylic base with warm amber neon tubing for wedding and stage backdrop.",
+    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-8",
+    "title": "Laser Engraved Wooden Corporate Desktop Organizers",
+    "category": "Gifts",
+    "material": "Natural Steamed Beechwood & Birch Ply",
+    "description": "Batch engraved employee onboarding gift set with individual name customization and sharp contrast.",
+    "imageUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  },
+  {
+    "_id": "port-9",
+    "title": "High-Tolerance Prototype Laser Components",
+    "category": "Custom Products",
+    "material": "2mm Precision Acrylic & Engineered Plywood",
+    "description": "Reusable high-detail laser cut components for architectural scale models and industrial prototyping.",
+    "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=85",
+    "featured": true,
+    "createdAt": "2026-10-09T09:30:45.151Z"
+  }
+]

@@ -1,0 +1,9 @@
+name = "radhe-laser-studio-api"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+STUDIO_PHONE = "7984190368"
+STUDIO_WHATSAPP = "7984190368"
+ADMIN_USERNAME = "admin"
